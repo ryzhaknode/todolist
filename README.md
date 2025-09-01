@@ -1,4 +1,4 @@
-# Todo List - Управление задачами
+# Todo List by ryzhaknode
 
 [todolist-2tyg46kk8-ryzhaknodes-projects.vercel.app](https://todolist-one-gilt.vercel.app)
 
